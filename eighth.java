@@ -16,6 +16,8 @@ public class eighth {
 		}
 		else {
 			System.out.println("0");
+			//syso
+			
 		}
 
 }
